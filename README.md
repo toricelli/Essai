@@ -5,5 +5,8 @@ Essai
 =======
 123 - V2 - Bla Bla 3
 ----
+<<<<<<< HEAD
 >>>>>>> .merge_file_jrIVTT
+=======
+>>>>>>> master
 essai
